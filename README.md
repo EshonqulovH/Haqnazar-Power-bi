@@ -1,4 +1,5 @@
 # Power BI Dashboard - Sales Performance Analysis
+<video controls src="bandicam 2024-09-17 16-50-42-589.mp4" title="Title"></video>
 ![alt text](image.png)
 ![alt text](image-3.png)
 ![alt text](image-1.png)
